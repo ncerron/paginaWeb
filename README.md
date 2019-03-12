@@ -1,1 +1,1 @@
-# Proyecto del Cusros de diseño web
+# Proyecto del Curso de diseño web
